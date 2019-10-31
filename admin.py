@@ -1,6 +1,4 @@
-#youtube : www.youtube.com/c/منضمةالهكرالعربية1
-# fb : Ha Ni 
-# github : www.github.com/lamanihani
+#don't copy create by 17 old coder*_* nohra
 import urllib.request
 import os
 import time
@@ -57,33 +55,31 @@ def slowprint(s):
         sys.stdout.write(c)
         sys.stdout.flush()
         time.sleep(10. / 100)
-slowprint("[!] Starting : ")
+slowprint("[!] Starting Tools......: ")
 time.sleep(5)
 os.system('clear')
 print('''
 \033[96m
 +=========================================+
-|.........KING ADMIN WEB FINDER ..........|
+|.........ADMIN  FINDER ..........|
 +-----------------------------------------+
-|#Author:     Lamani Hani VEGETA-LFH      |
-|#Contact: www.facebook.com/lamanihani    |
-|#Date:          10/07/2017               |
-|#This tool is made for pentesting.       |
-|#Changing the Description of this tool   |
-|Won't made you the coder ^_^ !!!         |
-|#Respect Coderz ^_^                      |
-|#I take no responsibilities for the      |
-|use of this program !                    |
+|+Create :     NohRa                      |
+|+https://www.facebook.com/noh.ra.184     |
+|+Date:          10/3/2019                |
+|+nohraOffical@gmail.com.                 |
+| ^_^ !!!                                 |
+|+Respect Coder ^_^                       |
+|+Thanks For Using.                       |
 +=========================================+
-|.........KING ADMIN WEB FINDER...........|
+|.........ADMIN WEB FINDER...........|
 +-----------------------------------------+
 ''')
-print(" \033[95m YOU MUST WRITE PROTOCOLE HTTPS:// or HTTP:// ex: http://www.ex.com , ex :https://www.ex.com ")
-print(" \033[95m YOU MUST WRITE / AT THE END OF THE SITE EX: www.example.com/")
+print(" \033[95m YOU MUST WRITE PROTOCOLE HTTPS:// or HTTP:// ex: http://www.xnxx.com , ex :https://www.xnxx.com ")
+print(" \033[95m YOU MUST WRITE / AT THE END OF THE SITE EX: www.xnxx.com/")
 print("                                                                       ")
 url = input("\033[97m enter the website : ")
 
-print ("start : ")
+print ("start !!!! : ")
 print("                                                                                        ")
 
 passe = ('admin/','administrator/','login.php','administration/','admin1/','admin2/','admin3/','admin4/','admin5/','moderator/','webadmin/','adminarea/','bb-admin/','adminLogin/','admin_area/','panel-administracion/','instadmin/',
@@ -218,5 +214,5 @@ for hani in passe :
 
 
 print ("----------------------------------------------------------------------------------------")
-print ("\033[93m     i HOPE I HAVE HELPED YOU ^_^ , TY FOR USE MY SCRIPT -Lamani Hani-")
+print ("\033[93m     i HOPE I HAVE HELPED YOU ^_^ , TY FOR USE MY SCRIPT -NohRa-")
 print ("----------------------------------------------------------------------------------------")
